@@ -1,3 +1,6 @@
+
+![news](https://github.com/sipher69/News-website_Angular/assets/43222112/93470d8a-b4aa-47f0-b3d6-c3dbfdbda89b)
+
 # News
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
